@@ -1,6 +1,6 @@
 <ul>
     <li>🌱 <b>I’m currently learning</b>: NextJs and VueJs</li>
-    <li>🎯 <b>I’m currently focusing on</b>: Learn advanced backend development more deeper.</li>
+    <li>🎯 <b>I’m currently focusing on</b>: Learn advanced frontend development more deeper.</li>
     <li>💬 <b>Ask me about anything</b>: <a href="https://github.com/ade566/ade566/issues">Here</a>.</li>
     <li>📫 <b>How to reach me</b>: Catch and follow me from the contact section below.</li>
     <li>😄 <b>Fun fact</b>: I love coding and some sport activities.</li>
