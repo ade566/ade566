@@ -1,41 +1,24 @@
-<ul>
-    <li>🌱 <b>I’m currently learning</b>: NextJs and VueJs</li>
-    <li>🎯 <b>I’m currently focusing on</b>: Learn advanced frontend development more deeper.</li>
-    <li>💬 <b>Ask me about anything</b>: <a href="https://github.com/ade566/ade566/issues">Here</a>.</li>
-    <li>📫 <b>How to reach me</b>: Catch and follow me from the contact section below.</li>
-    <li>😄 <b>Fun fact</b>: I love coding and some sport activities.</li>
-    <li>⚡ <b>My coding activity</b>: <a href="https://gitlab.com/muhamadaderohayat122">Here</a>.</li>
-</ul>
+### Hi there 👋
 
+I'm Muhamad Ade Rohayat, you can call me ade
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ade566&layout=compact)
+Backend Developer with hands-on experience in Laravel and interactive data handling using JavaScript, jQuery (AJAX), and Node.js. Currently expanding my expertise in modern JavaScript frameworks like Vue.js, Next.js, and Express.js, as well as NoSQL technologies.
 
+---
 
-## Programming Skills
+### My Stats in Github
 
-- Frontend Development
+[![Muhamad Ade Rohayat's github stats](https://github-readme-stats.vercel.app/api?username=ade566&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+---
 
-- Backend Development
+### My Programming Skills
 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ade566&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- Databases, Tools, and Others
+## :trophy: Languages and Tools: :robot:
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"> <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
 
 ## My Contacts
 
@@ -43,3 +26,29 @@
 <a href="https://www.linkedin.com/in/muhamad-ade-rohayat-b9315020a/" target="_blank">![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://github.com/ade566/" target="_blank">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>
 <a href="https://gitlab.com/muhamadaderohayat122" target="_blank">![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)</a>
+
+## Portofolio
+
+<table>
+    <tr>
+        <td> 
+            <b>TJM MOBIL INDO [API Service]</b><br /><br />
+            <a> 
+                <img src="https://media.licdn.com/dms/image/v2/D562DAQE_YWXagyYMJg/profile-treasury-image-shrink_8192_8192/B56ZaAMr8YHAAg-/0/1745907532415?e=1746514800&v=beta&t=aKGP4Sg7gytszZP19Mxt2-bcoKd_yKuBbdipC-pXEKs" alt="TJM MOBIL INDO [API Service]" width="300" /> 
+            </a><br /><br /> 
+            A dedicated platform for automotive marketing and managing direct sales transactions with customers on behalf of TJM MOBIL INDO.
+        </td>
+        <td> 
+            <b>WE-HUB [Backend]</b><br /><br />
+            <a> 
+                <img src="https://media.licdn.com/dms/image/v2/D562DAQGSrs4CNFA_Hw/profile-treasury-image-shrink_8192_8192/B56ZaAQJ_KHUAo-/0/1745908441584?e=1746514800&v=beta&t=N-ImCASK1dPRJGK6XMv2bY_8xGF1Q3NIP8CLAAa0cN0" alt="WE-HUB [Backend]" width="300" /> 
+            </a><br /><br /> 
+            A comprehensive platform for tracking, managing, and documenting sales and procurement activities.
+        </td>
+    </tr>
+</table>
+<div align="center">
+	<a href="https://www.linkedin.com/in/muhamad-ade-rohayat-b9315020a/details/projects/" target="_blank">
+  		<img src="https://img.shields.io/badge/🔍 View%20All%20Portfolio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="View All Portfolio"/>
+  	</a>
+</div>
