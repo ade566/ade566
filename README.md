@@ -8,6 +8,8 @@ Backend Developer with hands-on experience in Laravel and interactive data handl
 
 ### My Stats in Github
 
+[![Ade's github stats](https://github-readme-stats.vercel.app/api?username=ade566&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Ade's GitHub stats](https://github-readme-stats.vercel.app/api?username=ade566&count_private=true&show_icons=true&theme=material-palenight&hide=contribs&custom_title=Ade's%20GitHub%20Stats&hide_title=false&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🔥 Streak
