@@ -8,14 +8,12 @@ Backend Developer with hands-on experience in Laravel and interactive data handl
 
 ### My Stats in Github
 
-[![Ade's github stats](https://github-readme-stats.vercel.app/api?username=ade566&theme=material-palenight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Ade's github stats](https://github-readme-stats.vercel.app/api?username=ade566&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 
----
+### 🧾 Contribution Activity
 
-### 📊 GitHub Activity Graph
-
-[![Ade's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ade566&theme=react-dark&area=true&hide_border=true&count_private=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+See how active I’ve been on GitHub in the past year!  
+*(Scroll down to see my full activity graph on GitHub)*
 
 ---
 
