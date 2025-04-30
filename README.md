@@ -15,7 +15,7 @@ Backend Developer with hands-on experience in Laravel and interactive data handl
 ### 🔥 Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ade566&theme=radical)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ade566&layout=compact&theme=radical)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ade566&layout=compact&theme=radical) --!>
 
 ---
 
