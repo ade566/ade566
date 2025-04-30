@@ -7,12 +7,16 @@ Backend Developer with hands-on experience in Laravel and interactive data handl
 ---
 
 ### 🔥 Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ade566&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ade566&theme=radical&count_private=true)](https://github.com/ade566)
 
 ---
 
-<!-- ### My Programming Skills -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ade566&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+### 📊 GitHub Activity Graph
+
+[![Ade's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ade566&theme=react-dark&area=true&hide_border=true&count_private=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+---
 
 ## :trophy: Languages and Tools: :robot:
 
