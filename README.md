@@ -35,7 +35,7 @@ See how active I’ve been on GitHub in the past year!
         <td> 
             <b>TJM MOBIL INDO [API Service]</b><br /><br />
             <a> 
-                <img src="https://media.licdn.com/dms/image/v2/D562DAQE_YWXagyYMJg/profile-treasury-image-shrink_8192_8192/B56ZaAMr8YHAAg-/0/1745907532415?e=1746514800&v=beta&t=aKGP4Sg7gytszZP19Mxt2-bcoKd_yKuBbdipC-pXEKs" alt="TJM MOBIL INDO [API Service]" width="300" /> 
+                <img src="https://media.licdn.com/dms/image/v2/D562DAQE_YWXagyYMJg/profile-treasury-image-shrink_8192_8192/B56ZaAMr8YHAAg-/0/1745907532415?e=1746514800&v=beta&t=aKGP4Sg7gytszZP19Mxt2-bcoKd_yKuBbdipC-pXEKs" alt="TJM MOBIL INDO [API Service]" style="width:300px; max-width:100%" /> 
             </a><br /><br /> 
             A dedicated platform for automotive marketing and managing direct sales transactions with customers on behalf of TJM MOBIL INDO.
         </td>
@@ -50,6 +50,6 @@ See how active I’ve been on GitHub in the past year!
 </table>
 <div align="center">
 	<a href="https://www.linkedin.com/in/muhamad-ade-rohayat-b9315020a/details/projects/" target="_blank">
-  		<img src="https://img.shields.io/badge/🔍 View%20All%20Portfolio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="View All Portfolio"/>
+  		<img src="https://img.shields.io/badge/🔍 View%20All%20Portfolio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" astyle="width:300px; max-width:100%" />
   	</a>
 </div>
